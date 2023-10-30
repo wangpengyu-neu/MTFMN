@@ -1,8 +1,6 @@
 # MTFMN
 
-This repo contains the implementation of [Multi-gate Mixture-of-Experts](http://www.kdd.org/kdd2018/accepted-papers/view/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture-) model in TensorFlow Keras.
-
-Here's the [video explanation](https://www.youtube.com/watch?v=Dweg47Tswxw) of the paper by the authors.
+This repo contains the implementation of [Multi-gate Mixture-of-Experts](http://www.kdd.org/kdd2018/accepted-papers/view/modeling-task-relationships-in-multi-task-learning-with-multi-gate-mixture-) model in TensorFlow Keras. Here's the [video explanation](https://www.youtube.com/watch?v=Dweg47Tswxw) of the paper by the MMoE authors.
 
 The repository includes:
 - A Python 3.6 implementation of the model in TensorFlow with Keras
